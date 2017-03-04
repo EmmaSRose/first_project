@@ -1,5 +1,7 @@
+#new version by adam:  same same
 
-#small change
+
+
 
 import random
 #print(random.randint(1,6))
